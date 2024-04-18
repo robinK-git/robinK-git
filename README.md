@@ -1,7 +1,7 @@
 <!-- Profilbanner och bild -->
 
-<h1 align="center">Hej 👋, jag är Robin K</h1>
-<h3 align="center">En passionerad webbutvecklare från Skövde</h3>
+<h1 align="center">Hej 👋, jag är Robin </h1>
+<h3 align="center">En passionerad webbutvecklare student från högskolan i Skövde</h3>
 
 <p align="center">
   <em>"Fokuserad på att skapa användarcentrerade och responsiva webbplatser. Brinner för moderna teknologier och livslångt lärande."</em>
