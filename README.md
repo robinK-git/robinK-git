@@ -1,13 +1,18 @@
-<h1 align="center">Robin K</h1>
-<h3 align="center">Web Developer | Student @University of Skövde</h3>
+<!-- Profilbanner och bild -->
+
+<h1 align="center">Hej 👋, jag är Robin K</h1>
+<h3 align="center">En passionerad webbutvecklare från Skövde</h3>
 
 <p align="center">
-  <em>"Building the future, one line of code at a time."</em>
+  <em>"Fokuserad på att skapa användarcentrerade och responsiva webbplatser. Brinner för moderna teknologier och livslångt lärande."</em>
 </p>
 
+<!-- Sociala medier och kontaktknappar -->
 <p align="center">
-  <strong>An inventive web developer focused on creating user-centric and responsive websites. Passionate about modern technologies and lifelong learning.</strong>
+  <!-- Lägg till dina egna länkar här -->
+  <a href="URL_TILL_DIN_LINKEDIN_PROFIL" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
+
 
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <p align="center">
